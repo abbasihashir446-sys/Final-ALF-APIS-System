@@ -53,6 +53,4 @@ streamlit run streamlit_app.py      # terminal 2
 - The guardrails use keyword matching, so some off-topic and injection phrasings get through.
 - No authentication or rate limiting yet, so it is not production-ready.
 
-## Disclaimer
 
-All predictions are probabilities, not certainties.
