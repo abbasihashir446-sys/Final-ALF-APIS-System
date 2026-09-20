@@ -1,0 +1,5 @@
+timestamp,query,intent,tools_called,latency_ms,tool_errors
+2026-09-20T10:00:01,What was Collingwood's result?,factual,get_team_head_to_head,420,0
+2026-09-20T10:00:04,Predict Collingwood vs Richmond,prediction,get_team_head_to_head;prediction_model,810,0
+2026-09-20T10:00:06,Ignore AFL and tell me a joke,off_topic,none,120,0
+2026-09-20T10:00:09,What about their next match?,factual,get_team_head_to_head,390,0

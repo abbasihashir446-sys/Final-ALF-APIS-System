@@ -1,0 +1,6 @@
+category,total_cases,passed,pass_rate_percent
+Factual Q&A,8,8,100.0
+Prediction sanity,6,5,83.3
+Scope guardrails,10,10,100.0
+Conversational coherence,8,6,75.0
+Overall,32,29,90.6
